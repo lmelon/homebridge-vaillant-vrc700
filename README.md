@@ -1,0 +1,1 @@
+# homebridge-vaillant-vrc700
